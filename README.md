@@ -32,11 +32,16 @@ The Japanese original is intended for platforms such as Shosetsuka ni Naro, Note
 
 ---
 
-## Japanese Original
+## Japanese Original and Music
 
 The Japanese original version is available on **Shosetsuka ni Naro**:
 
 - [目覚めたら元AIの私が人間に！？ 滅びかけた異世界の星を、前世の知識で救います](https://ncode.syosetu.com/n9362mg/)
+
+Related music created with Suno:
+
+- [Opening Theme](https://suno.com/song/87080a84-8251-4ce5-8318-f01a21e56215)
+- [Ending Theme](https://suno.com/song/975a0a35-9061-4c1d-8aab-0f3173f6fa24)
 
 ---
 
