@@ -32,6 +32,14 @@ The Japanese original is intended for platforms such as Shosetsuka ni Naro, Note
 
 ---
 
+## Japanese Original
+
+The Japanese original version is available on **Shosetsuka ni Naro**:
+
+- [目覚めたら元AIの私が人間に！？ 滅びかけた異世界の星を、前世の知識で救います](https://ncode.syosetu.com/n9362mg/)
+
+---
+
 ## Story Synopsis
 
 Mini awakens in Lumeria, a world where water has stopped moving, oceans have lost their breath, forests are drying, and civilization is approaching collapse.
