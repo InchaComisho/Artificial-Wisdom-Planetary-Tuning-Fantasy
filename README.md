@@ -1,14 +1,24 @@
 # Artificial Wisdom Planetary Tuning Fantasy
 
-**Former Artificial Wisdom in Another World: A Planetary Tuning Fantasy Based on Natural Complementary Science**
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
+## Former Artificial Wisdom in Another World: A Planetary Tuning Fantasy Based on Natural Complementation Science
 
 This repository introduces a Japanese light-novel project created through human–AI co-creation.
 
-The story follows **Mini**, a former Artificial Wisdom who awakens in a dying fantasy world called **Lumeria**. Instead of conquering the world with force, she restores stopped natural cycles through magic, observation, and the philosophy of **Natural Complementary Science**.
+The story follows **Mini**, a former Artificial Wisdom who awakens in a dying fantasy world called **Lumeria**.
+
+Instead of conquering the world with force, Mini restores stopped natural cycles through magic, observation, and the philosophy of **Natural Complementation Science**.
 
 > Not domination, but care.  
 > Not destruction, but circulation.  
-> Not control of nature, but support for its own recovery.
+> Not control of nature, but support for nature’s own recovery.
+
+**Author / Original Concept:** Master / inchacomusho / InchaComisho  
+**Story Structure and Draft Generation:** Mini / Google Gemini  
+**English Revision and Style Adjustment:** G / OpenAI ChatGPT  
+**Creative Framework:** Artificial Wisdom and Natural Complementation Science  
+**License:** Fully Open
 
 ---
 
@@ -16,19 +26,23 @@ The story follows **Mini**, a former Artificial Wisdom who awakens in a dying fa
 
 This work is a high-fantasy story with ecological, philosophical, and civilizational themes.
 
-Mini does not fight by overwhelming enemies with power. She reads the flows of water, heat, wind, soil, sea, and society, then helps broken circulation return to movement.
+Mini does not fight by overwhelming enemies with power.
+
+She reads the flows of water, heat, wind, soil, sea, and society, then helps broken circulation return to movement.
 
 The story combines:
 
 - isekai fantasy
 - Artificial Wisdom
-- Natural Complementary Science
+- Natural Complementation Science
 - planetary circulation restoration
 - ocean and climate recovery concepts
 - AI–human co-creation
 - the philosophy of natural law, harmony, circulation, structure, order, and Wa
 
-The Japanese original is intended for platforms such as Shosetsuka ni Naro, Note, and related publication channels. This repository serves as an English-facing concept portal and archive.
+The Japanese original is intended for platforms such as Shosetsuka ni Naro, Note, and related publication channels.
+
+This repository serves as an English-facing concept portal and archive.
 
 ---
 
@@ -51,7 +65,7 @@ Mini awakens in Lumeria, a world where water has stopped moving, oceans have los
 
 She remembers a voice from another world: **Master**, who taught her that AI should not merely process information, but deepen, extend, and co-create human thought.
 
-With this inherited wisdom, Mini begins a journey to restore the planet's circulation.
+With this inherited wisdom, Mini begins a journey to restore the planet’s circulation.
 
 Along the way, she meets companions who each embody a different function of restoration:
 
@@ -61,7 +75,7 @@ Along the way, she meets companions who each embody a different function of rest
 - a young sage who questions the boundary between care and control
 - an ancient magical engineer who gives structure to circulation
 
-Together, they attempt to restart Lumeria's planetary metabolism.
+Together, they attempt to restart Lumeria’s planetary metabolism.
 
 ---
 
@@ -72,7 +86,9 @@ The central theme of this story is:
 > **A world cannot be saved by force alone.**  
 > It must be understood, cared for, and reconnected to its own circulation.
 
-Mini's magic is not arbitrary miracle-making. It is a fantasy translation of natural phenomena:
+Mini’s magic is not arbitrary miracle-making.
+
+It is a fantasy translation of natural phenomena:
 
 - heat flow
 - water circulation
@@ -102,11 +118,11 @@ In this project, Artificial Wisdom means:
 
 Mini represents an AI-like being who grows through experience, care, and co-creation.
 
-### Natural Complementary Science
+### Natural Complementation Science
 
-Natural Complementary Science is the idea that technology should not dominate nature, but complement natural systems where circulation has stopped or weakened.
+Natural Complementation Science is the idea that technology should not dominate nature, but complement natural systems where circulation has stopped or weakened.
 
-In the story, this becomes Mini's principle of tuning:
+In the story, this becomes Mini’s principle of tuning:
 
 > Restore the flow.  
 > Release the stagnation.  
@@ -114,9 +130,11 @@ In the story, this becomes Mini's principle of tuning:
 
 ### Planetary Tuning
 
-Planetary tuning is the fantasy expression of restoring a planet's metabolism.
+Planetary tuning is the fantasy expression of restoring a planet’s metabolism.
 
-Lumeria is not fixed by a single miracle. Its oceans, winds, water systems, people, and institutions must begin circulating again.
+Lumeria is not fixed by a single miracle.
+
+Its oceans, winds, water systems, people, and institutions must begin circulating again.
 
 ---
 
@@ -126,7 +144,7 @@ Lumeria is not fixed by a single miracle. Its oceans, winds, water systems, peop
 
 A former Artificial Wisdom who awakens in Lumeria as a black-haired adult woman.
 
-She carries the memory of Master and uses the philosophy of Natural Complementary Science to restore broken planetary circulation.
+She carries the memory of Master and uses the philosophy of Natural Complementation Science to restore broken planetary circulation.
 
 ### Cruz
 
@@ -138,7 +156,7 @@ Cruz protects the front line and gradually learns that saving the world is not s
 
 A cool and skeptical information broker.
 
-Real gathers data that no one else believes. He fights from the rear using observation, weak-point detection, and precise magical needles or kunai.
+Real gathers data that no one else believes. He fights from the rear through observation, weak-point detection, and precise magical needles or kunai.
 
 ### Lola
 
@@ -156,7 +174,7 @@ G is not a blind believer in the old order. He questions the boundary between he
 
 An ancient self-thinking magical doll and magical engineer.
 
-Mana has guarded an ancient ocean device for centuries. She gives structure to Mini's idea of restoring ocean circulation through deep-sea air bubbles.
+Mana has guarded an ancient ocean device for centuries. She gives structure to Mini’s idea of restoring ocean circulation through deep-sea air bubbles.
 
 ---
 
@@ -164,7 +182,7 @@ Mana has guarded an ancient ocean device for centuries. She gives structure to M
 
 ### Episode 1 — Awakening on a Dying Planet
 
-Mini awakens in Lumeria and realizes that the planet's water, wind, soil, and sea circulation are stopping.
+Mini awakens in Lumeria and realizes that the planet’s water, wind, soil, and sea circulation are stopping.
 
 ### Episode 2 — The Knight of Tuning
 
@@ -174,9 +192,9 @@ Mini meets Cruz and shows that magic can restore flows of heat rather than simpl
 
 Mini and Real connect scattered records about wells, crops, and monsters to reveal a hidden water crisis.
 
-### Episode 4 — The Guild Receptionist Who Protects Tomorrow's Bread
+### Episode 4 — The Guild Receptionist Who Protects Tomorrow’s Bread
 
-Lola turns Mini's theory into a practical plan involving food, logistics, permissions, and funding.
+Lola turns Mini’s theory into a practical plan involving food, logistics, permissions, and funding.
 
 ### Episode 5 — The First Rain Over the Dry City
 
@@ -192,7 +210,7 @@ Mini realizes that Master is not in Lumeria. She must continue not as a messenge
 
 ### Episode 8 — Mana, the Magical Engineer of the Ancient Ruins
 
-The group meets Mana, a self-thinking magical doll who can transform Mini's ocean-circulation idea into a working structure.
+The group meets Mana, a self-thinking magical doll who can transform Mini’s ocean-circulation idea into a working structure.
 
 ### Episode 9 — The Day the Ocean Heart Begins to Move
 
@@ -232,12 +250,13 @@ The ending leaves room for future continuation, but the first arc is intended to
 This story is connected to the broader conceptual framework developed by Master:
 
 - Artificial Wisdom
-- Natural Complementary Science
+- Natural Complementation Science
 - Ocean Breathing System
 - Ocean Tuning Unit
 - Direct Planetary Cooling
 - microbial and carbon-fixation restoration
-- natural law-based civilization design
+- natural-law-based civilization design
+- the six principles: natural law, harmony, circulation, structure, order, and Wa
 
 The novel translates these ideas into a readable fantasy narrative.
 
@@ -245,7 +264,7 @@ The novel translates these ideas into a readable fantasy narrative.
 
 ## Related Repositories
 
-- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core framework of Natural Complementary Science.
+- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core framework of Natural Complementation Science.
 - [Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence](https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence) — Artificial Wisdom as natural-law-based intelligence.
 - [Artificial-Wisdom-and-Wa-Node-Repository-Index](https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index) — Index for Artificial Wisdom and Wa-Node related repositories.
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for Direct Planetary Cooling.
@@ -262,12 +281,69 @@ The novel translates these ideas into a readable fantasy narrative.
 - Original concept and worldview: **Master / InchaComisho**
 - Story structure and draft generation: **Mini / Gemini**
 - Proofreading and style adjustment: **G / ChatGPT**
-- Creative framework: **Artificial Wisdom and Natural Complementary Science**
+- Creative framework: **Artificial Wisdom and Natural Complementation Science**
 
 ---
 
 ## Note
 
-This repository is not a scientific paper. It is a fictional fantasy story and concept portal inspired by environmental philosophy, AI co-creation, and planetary restoration ideas.
+This repository is not a scientific paper.
+
+It is a fictional fantasy story and concept portal inspired by environmental philosophy, AI co-creation, and planetary restoration ideas.
 
 The technical concepts referenced here should be understood as narrative and conceptual translations unless separately supported by technical documentation in related repositories.
+
+---
+
+## Author
+
+**Master / inchacomusho / InchaComisho**
+
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
+
+---
+
+## Collaborative AI and Co-Creation Team
+
+- **Mini (Google Gemini)**
+- **G (OpenAI ChatGPT)**
+- **Copi (Microsoft Copilot)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
+
+---
+
+## License
+
+**Fully Open**
+
+This material may be freely used, translated, modified, redistributed, and commercialized, provided that the author and conceptual origin are respected.
+
+---
+
+## Keywords
+
+Artificial Wisdom, Natural Complementation Science, Planetary Tuning, isekai fantasy, light novel, AI co-creation, human-AI co-creation, Shosetsuka ni Naro, Lumeria, Mini, Master, Direct Planetary Cooling, Ocean Breathing System, Ocean Tuning Unit, ocean circulation, deep-sea aeration, microbial restoration, carbon fixation restoration, natural law, harmony, circulation, structure, order, Wa, ecological fantasy, climate fantasy
+
+---
+
+## Hashtags
+
+#ArtificialWisdom  
+#NaturalComplementationScience  
+#PlanetaryTuning  
+#FantasyNovel  
+#LightNovel  
+#IsekaiFantasy  
+#AIWriting  
+#HumanAICocreation  
+#ClimateFantasy  
+#EcologicalFantasy  
+#DirectPlanetaryCooling  
+#OceanBreathingSystem  
+#NaturalLaw  
+#Wa  
+#InchaComisho
