@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## 元人工叡智の私が異世界で目覚めたら――自然補完科学に基づく惑星調律ファンタジー
 
 このリポジトリは、人間とAIの共創によって生まれた日本語ライトノベル企画を紹介するためのポータルである。

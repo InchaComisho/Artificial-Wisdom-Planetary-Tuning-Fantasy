@@ -2,6 +2,8 @@
 
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Former Artificial Wisdom in Another World: A Planetary Tuning Fantasy Based on Natural Complementation Science
 
 This repository introduces a Japanese light-novel project created through human–AI co-creation.
