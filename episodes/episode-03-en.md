@@ -1,5 +1,7 @@
 # Episode 3 — The City That Hid the Truth and the Cold Informant
 
+[日本語版はこちら / Japanese version](episode-03-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

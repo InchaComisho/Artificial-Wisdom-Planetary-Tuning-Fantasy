@@ -1,5 +1,7 @@
 # Episode 9 — The Day We Moved the Heart of the Sea
 
+[日本語版はこちら / Japanese version](episode-09-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

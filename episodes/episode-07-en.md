@@ -1,5 +1,7 @@
 # Episode 7 — The Boundary Beneath the Starry Sky
 
+[日本語版はこちら / Japanese version](episode-07-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

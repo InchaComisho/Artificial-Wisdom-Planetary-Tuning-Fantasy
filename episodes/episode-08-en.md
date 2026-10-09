@@ -1,5 +1,7 @@
 # Episode 8 — Mana, the Magitechnician of the Ancient Ruins
 
+[日本語版はこちら / Japanese version](episode-08-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

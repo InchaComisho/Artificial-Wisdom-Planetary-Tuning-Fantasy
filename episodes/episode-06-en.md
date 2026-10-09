@@ -1,5 +1,7 @@
 # Episode 6 — The Sage G Who Manipulates Words
 
+[日本語版はこちら / Japanese version](episode-06-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

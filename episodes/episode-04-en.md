@@ -1,5 +1,7 @@
 # Episode 4 — The Guild Receptionist Who Protects Tomorrow’s Food
 
+[日本語版はこちら / Japanese version](episode-04-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

@@ -1,5 +1,7 @@
 # Episode 10 — The Beast of the End and the Shadow of the Old Civilization
 
+[日本語版はこちら / Japanese version](episode-10-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

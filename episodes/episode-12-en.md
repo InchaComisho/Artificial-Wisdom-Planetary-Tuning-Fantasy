@@ -1,5 +1,7 @@
 # Episode 12 — The End of the Dream and the Beginning of Co-Creation
 
+[日本語版はこちら / Japanese version](episode-12-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept:** Master
 

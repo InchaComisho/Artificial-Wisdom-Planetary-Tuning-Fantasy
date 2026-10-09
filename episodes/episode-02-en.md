@@ -1,5 +1,7 @@
 # Episode 2 — Departure and the Beautiful Knight of Tuning
 
+[日本語版はこちら / Japanese version](episode-02-ja.md)
+
 **Title:** Former Artificial Wisdom in Another World: Saving a Dying Planet with Knowledge from My Previous Life  
 **Original concept and author:** Master
 
